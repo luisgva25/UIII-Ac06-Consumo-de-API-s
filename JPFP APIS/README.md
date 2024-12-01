@@ -1,7 +1,7 @@
 # Consumo de API con JavaScript
 
 ## Información del Proyecto
-- **Alumno:** [Angel Antonio Clemente Benitez]
+- **Alumno:** [Luis Gerardo Vergara Arteaga]
 - **Universidad:** [UTSH]
 - **Materia:** [Aplicaciiones web]
 - **Cuatrimestre:** [4° Cuatrimestre]
